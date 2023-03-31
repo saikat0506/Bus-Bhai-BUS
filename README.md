@@ -1,2 +1,3 @@
 # Bus Bhai BUS
- 1st project
+
+this is a group project of SNU students 
